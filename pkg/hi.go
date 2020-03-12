@@ -3,7 +3,7 @@ package pkg
 import (
 	"fmt"
 
-	"gopkg.in/launchdarkly/go-mod-dep-compat-test.v2/internal"
+	"gopkg.in/launchdarkly/go-mod-dep-compat-test.v3/internal"
 )
 
 func Greet() {
