@@ -1,3 +1,3 @@
 package internal
 
-var Msg = "hello"
+var Msg = "hello v3"
